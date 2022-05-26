@@ -1,6 +1,6 @@
 # Convolutional-Neural-Networks-in-TensorFlow
 
-![Updated Badge](https://badges.pufler.dev/updated/neerajk/Convolutional-Neural-Networks-in-TensorFlo)
+![Updated Badge](https://badges.pufler.dev/updated/neerajk/Convolutional-Neural-Networks-in-TensorFlow)
 ![](https://badges.pufler.dev/created/neerajk/Convolutional-Neural-Networks-in-TensorFlow)
 ![](https://badges.pufler.dev/visits/neerajk/Convolutional-Neural-Networks-in-TensorFlow)
 
