@@ -1,8 +1,6 @@
 # Convolutional-Neural-Networks-in-TensorFlow
 
-![Updated Badge](https://badges.pufler.dev/updated/neerajk/Convolutional-Neural-Networks-in-TensorFlow)
-![](https://badges.pufler.dev/created/neerajk/Convolutional-Neural-Networks-in-TensorFlow)
-![](https://badges.pufler.dev/visits/neerajk/Convolutional-Neural-Networks-in-TensorFlow)
+
 
 If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This course is part of the upcoming Machine Learning in Tensorflow Specialization and will teach you best practices for using TensorFlow, a popular open-source framework for machine learning.
 
